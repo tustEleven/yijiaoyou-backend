@@ -1,0 +1,4 @@
+YJY:
+  mysql:
+    host: localhost
+    password: 1234

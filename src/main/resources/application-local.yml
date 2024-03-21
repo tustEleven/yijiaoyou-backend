@@ -1,0 +1,8 @@
+YJY:
+  mysql:
+    host: localhost
+    password: 1234
+  redis:
+    port: 6379
+    host: localhost
+
